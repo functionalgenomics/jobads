@@ -1,3 +1,5 @@
+# Research Software Engineer
+
 ## Job description
 
 We are searching for an experienced **Research Software Engineer** to contribute to the development of the open-source software project "GSVA: Optimizing Gene Set Variation Analysis for Single-Cell Data", funded by the [**Chan Zuckerberg Initiative (CZI)**](https://chanzuckerberg.com) in the last call for [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/proposals/gsva-optimizing-gene-set-variation-analysis-for-single-cell-data). The candidate will work in the [research group of Robert Castelo](https://functionalgenomics.upf.edu) at the Department of Medicine and Life Sciences from the [Universitat Pompeu Fabra](https://www.upf.edu), in the [Barcelona Biomedical Research Park](https://prbb.org), in Barcelona, Spain and in close collaboration with Justin Guinney, senior researcher at [Tempus Labs](https://www.tempus.com), USA. With over 1,400 residents, the PRBB has a large critical mass in scientists from different institutions at the forefront of research in bioinformatics and computational biology, giving the possibility to attend seminars, conferences and soft-skills training.
