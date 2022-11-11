@@ -1,4 +1,6 @@
-# Research Software Engineer
+---
+title: Research Software Engineer
+---
 
 ## Job description
 
