@@ -22,7 +22,7 @@ We are searching for an experienced **Research Software Engineer** to contribute
 
 ## Benefits of the opening
 
-We offer a two-year contract starting on the first trimester of 2023, funded by the CZI, with a gross salary in the range 34,000-42,000 EUR/year, according to experience and qualifications, and including the standard health benefits of an European Union member state.
+We offer a two-year contract starting on the first trimester of 2023, funded by the CZI, with a gross salary in the range 34,000-41,000 EUR/year, according to experience and qualifications, and including the standard health benefits of an European Union member state.
 
 ## Information on the application process
 
