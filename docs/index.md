@@ -8,7 +8,7 @@ We are searching for an experienced **Research Software Engineer** to contribute
 
 [GSVA](https://bioconductor.org/packages/GSVA) is an R/Bioconductor package that facilitates pathway-centric analyses of molecular data. With more than 200,000 downloads and 4,500 citations to the [paper](https://doi.org/10.1186/1471-2105-14-7) describing it, GSVA has become a very popular open-source software, in which we want to improve its scalability, robustness and documentation.
 
-## Specific Requirements
+## Specific requirements
 
 * BSc or higher degree in either computer science, engineering, mathematics, physics or in the life sciences with a proven track record of scientific software development.
 
