@@ -24,6 +24,6 @@ We are searching for an experienced **Research Software Engineer** to contribute
 
 We offer a full-time two-year contract starting on the first trimester of 2023, funded by the CZI, with a gross salary in the range 34,000-41,000 EUR/year, according to experience and qualifications, and including the standard health benefits of an European Union member state.
 
-## Information on the application process
+## Application process
 
 Send CV and letter of interest, including names of two referees that could send a recommendation letter to robert.castelo@upf.edu (REF: CZI_GSVA). Additional information about this job offer can be also requested to the same email address.
