@@ -1,20 +1,20 @@
 ---
-title: Research Software Engineer
+title: Master's project on spatial transcriptomics
 ---
 
 ## Job description
 
-We are searching for an experienced **Research Software Engineer** to contribute to the development of the open-source software project "GSVA: Optimizing Gene Set Variation Analysis for Single-Cell Data", funded by the [**Chan Zuckerberg Initiative (CZI)**](https://chanzuckerberg.com/science) in the last call for [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/proposals/gsva-optimizing-gene-set-variation-analysis-for-single-cell-data). The candidate will work in the [research group of Robert Castelo](https://functionalgenomics.upf.edu) at the Department of Medicine and Life Sciences from the Universitat Pompeu Fabra ([UPF](https://www.upf.edu)), in the Barcelona Biomedical Research Park ([PRBB](https://prbb.org)), in Barcelona, Spain and in close collaboration with Justin Guinney, senior researcher at [Tempus Labs](https://www.tempus.com), USA. With over 1,400 residents, the PRBB has a large critical mass of scientists from different institutions at the forefront of research in bioinformatics and computational biology, giving the possibility to attend seminars, conferences and soft-skills training.
+We are searching for a graduate student to contribute to the development of the open-source software project "GSVA: Optimizing Gene Set Variation Analysis for Single-Cell Data", funded by the [**Chan Zuckerberg Initiative (CZI)**](https://chanzuckerberg.com/science) in the last call for [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/proposals/gsva-optimizing-gene-set-variation-analysis-for-single-cell-data). The candidate will work in the [research group of Robert Castelo](https://functionalgenomics.upf.edu) at the Department of Medicine and Life Sciences from the Universitat Pompeu Fabra ([UPF](https://www.upf.edu)), in the Barcelona Biomedical Research Park ([PRBB](https://prbb.org)), in Barcelona, Spain and in close collaboration with Justin Guinney, senior researcher at [Tempus Labs](https://www.tempus.com), USA. With over 1,400 residents, the PRBB has a large critical mass of scientists from different institutions at the forefront of research in bioinformatics and computational biology, giving the possibility to attend seminars, conferences and soft-skills training.
 
-[GSVA](https://bioconductor.org/packages/GSVA) is an R/Bioconductor package that facilitates pathway-centric analyses of molecular data. With more than 200,000 downloads and 4,500 citations to the [paper](https://doi.org/10.1186/1471-2105-14-7) describing it, GSVA has become a very popular open-source software, in which we want to improve its scalability, robustness and documentation.
+[GSVA](https://bioconductor.org/packages/GSVA) is an R/Bioconductor package that facilitates pathway-centric analyses of molecular data. With more than 200,000 downloads and 5,000 citations to the [paper](https://doi.org/10.1186/1471-2105-14-7) describing it, GSVA has become a very popular open-source software. We offer a graduate student to carry out his/her master's thesis project in the framework of adapting GSVA to analyse spatial transcriptomics data.
 
 ## Specific requirements
 
-* BSc or higher degree in either computer science, engineering, mathematics, physics or in the life sciences with a proven track record of scientific software development.
+* BSc or higher degree in either computer science, engineering, mathematics, physics or in the life sciences with a motivation for scientific method and software development.
 
-* Proficiency in R and ample experience with its ecosystem of packages and data structures, particularly those from the [Bioconductor project](https://bioconductor.org).
+* Ideally enrolled in a master's programme in the field of bioinformatics, biostatistics, data science, mathematics or related discipline, in which a master's project should be developed during the academic year 2023-24. Candidates not enrolled in a master's programme may be considered if they have a strong profile in the other requirements.
 
-* Comfort in working with Git and GitHub, unit testing, CI/CD, literate programming with R Markdown.
+* Solid knowledge of fundamental statistics and programming, ideally with R.
 
 * Fluency in written and spoken English. Excellent teamwork and collaboration skills.
 
@@ -22,7 +22,7 @@ We are searching for an experienced **Research Software Engineer** to contribute
 
 ## Compensation and benefits
 
-We offer a full-time two-year contract starting on the first trimester of 2023, funded by the CZI, with a gross salary in the range 34,000-41,000 EUR/year, according to experience and qualifications, and including the standard health benefits of an European Union member state.
+We offer a full-time two-year contract starting on the third trimester of 2023, funded by the CZI, with a gross salary of a PhD student, about 17,000 EUR/year (monthly gross salary of about 1,400EUR), including the standard health benefits of an European Union member state.
 
 ## Application process
 
